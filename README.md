@@ -62,7 +62,9 @@ ai-tools-lab/
 
 ## Contributors
 
-Contributions are welcome. Add contributor names or GitHub profiles here as the project grows.
+## Contributors
+
+- [sanginikumari](https://github.com/sanginikumari)
 
 ## License
 
